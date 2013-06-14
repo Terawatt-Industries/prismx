@@ -1,0 +1,3 @@
+[submodule "software/ramps-firmware"]
+	path = software/ramps-firmware
+	url = git@github.com:Terawatt-Industries/Atlantic.git
