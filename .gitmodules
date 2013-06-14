@@ -1,3 +1,9 @@
 [submodule "software/ramps-firmware"]
 	path = software/ramps-firmware
 	url = git@github.com:Terawatt-Industries/Atlantic.git
+[submodule "software/pronterface"]
+	path = software/pronterface
+	url = git://github.com/kliment/Printrun.git
+[submodule "software/openscad"]
+	path = software/openscad
+	url = git://github.com/openscad/openscad
