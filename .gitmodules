@@ -7,3 +7,6 @@
 [submodule "software/openscad"]
 	path = software/openscad
 	url = git://github.com/openscad/openscad
+[submodule "hardware/prismx"]
+	path = hardware/prismx
+	url = git@github.com:Terawatt-Industries/prismx-scad.git
