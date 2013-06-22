@@ -10,3 +10,6 @@
 [submodule "hardware/prismx"]
 	path = hardware/prismx
 	url = git@github.com:Terawatt-Industries/prismx-scad.git
+[submodule "hardware/00str00der"]
+	path = hardware/00str00der
+	url = https://github.com/Terawatt-Industries/00str00der
