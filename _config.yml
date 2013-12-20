@@ -7,7 +7,7 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Terawatt Industries PrismX Master Repository (everything PrismX)"
+    title: "PrismX Open Source 3D Printer Usability Repository"
     author: Terawatt Industries
     license: GPLv2
     tags: [prismx,reprap,3d printer,precision,usability]
